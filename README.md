@@ -1,2 +1,2 @@
-# cookbooks
-Cloudstate CookBook
+# CookBooks
+CloudState CookBook
