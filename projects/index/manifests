@@ -1,0 +1,26 @@
+[
+   {
+      "recipeName":"java-shoppingcart",
+      "projectName":"samples-java-shoppingcart",
+      "organization":"cloudstate",
+      "repository":"https://github.com/cloudstateio/samples-java-shoppingcart.git",
+      "shortDescription":"Cloudstate Sample Shopping Cart Application",
+      "longDescriptionUrl":"https://raw.githubusercontent.com/cloudstateio/samples-java-shoppingcart/master/README.md",
+      "language":"JAVA",
+      "includeEntityTypes":[
+         "EventSourced"
+      ]
+   },
+   {
+      "recipeName":"js-chat",
+      "projectName":"samples-js-chat",
+      "organization":"cloudstate",
+      "repository":"https://github.com/cloudstateio/samples-js-chat.git",
+      "shortDescription":"Friends & Presence service - part of Cloudstate Chat sample",
+      "longDescriptionUrl":"https://raw.githubusercontent.com/cloudstateio/samples-js-chat/master/README.adoc",
+      "language":"NODEJS",
+      "includeEntityTypes":[
+         "CRDT"
+      ]
+   }
+]
